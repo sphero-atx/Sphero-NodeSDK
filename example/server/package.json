@@ -1,0 +1,12 @@
+{
+  "name": "sphero-server",
+  "version": "0.0.0",
+  "main": "./server.js",
+  "dependencies": {
+    "director": "1.0.x",
+    "socket.io": "0.9.x",
+    "union": "~0.3.2",
+    "async": "~0.1.22",
+    "ecstatic": "~0.1.6"
+  }
+}

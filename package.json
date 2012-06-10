@@ -1,0 +1,9 @@
+{
+  "name": "node-sphero",
+  "version": "0.0.0",
+  "main": "lib/sphero.js",
+  "dependencies": {
+    "serialport": "0.7.x",
+    "ecstatic": "~0.1.6"
+  }
+}
